@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "932343009528",
+    "firebase_url": "https://cuzaodamimhanamorada-default-rtdb.firebaseio.com",
+    "project_id": "cuzaodamimhanamorada",
+    "storage_bucket": "cuzaodamimhanamorada.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932343009528:android:f442aa385d40d69060ab0d",
+        "android_client_info": {
+          "package_name": "Com.Dorame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrM1ejROlw7FgzGowdFycxNcAdT05ossg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932343009528:android:3de05bdc416ca90260ab0d",
+        "android_client_info": {
+          "package_name": "Cuzin.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrM1ejROlw7FgzGowdFycxNcAdT05ossg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

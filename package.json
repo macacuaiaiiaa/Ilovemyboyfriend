@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.13.11",
+    "axios": "^1.9.0",
+    "bcryptjs": "^3.0.2",
+    "cheerio": "^1.0.0",
+    "express": "^5.1.0",
+    "firebase-admin": "^13.4.0",
+    "jsonwebtoken": "^9.0.2",
+    "node-fetch": "^3.3.2",
+    "node-persist": "^4.0.4",
+    "uuid": "^11.1.0"
+  }
+}
