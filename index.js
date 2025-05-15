@@ -13,7 +13,7 @@ storage.init({
   parse: JSON.parse,
 });
 
-const serviceAccount = require('/.cuzaodamimhanamorada-7a5463ddca86.json');
+const serviceAccount = require('./attached_assets/cuzaodamimhanamorada-7a5463ddca86.json');
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
